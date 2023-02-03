@@ -1,5 +1,13 @@
-# Loan_Prediction_Python
+# Loan Eligibility Prediction
+
+## Problem Statement
 Predict Loan Eligibility for a Finance company
+
+## Approach
+Performed crucial data science steps from Hypothesis Generation, Data Preparation to Exploratory Data Analysis and Model Building
+
+## Outcome
+Achieved accuracy of 80% in loan eligibility prediction using Logistic Regression model 
 
 ## Process Flow
 1. Understanding Problem Statement
